@@ -1,2 +1,2 @@
 # hospital_mang
-sping-boot app for hospital mangement (06/01) progress 
+sping-boot app for hospital mangement (07/01) progress 
